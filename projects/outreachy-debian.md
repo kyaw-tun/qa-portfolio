@@ -1,30 +1,29 @@
 # Open Source QA Contribution - Debian Project
 
 ## 🌐 Project Overview
-Contributed to automated testing of Debian OS installation images **during the Outreachy contribution phase**, focusing on validating the installation process of different Debian distributions using openQA.
+Participated in the Outreachy contribution period, contributing to automated testing of Debian OS installation images. Focused on validating the installation process of different Debian distributions using openQA.
 
 ## 🔗 Project Links
 - **My GitLab Profile:** [Gitlab Profile](https://gitlab.com/kyaw-tun) *(Shows my activity and contributions)*
 - **GitLab Repository:** [Debian QA Team](https://salsa.debian.org/qa/openqa/openqa-tests-debian/)
 - **Outreachy Program:** [Outreachy Website](https://www.outreachy.org)
+- **Note:** Participated in the competitive contribution phase (DEC 2025 cohort)
 
 ## 🎯 My Contributions
 - Developed automated test scripts for Debian OS installation validation
 - Contributed to openQA test suites within a CI/CD environment
 - Authored test cases for verifying installation workflows of various Debian images
 - Participated in issue triage, test planning, and community discussions
-- Participated in the Debian QA community, following established workflows and guidelines
+- Collaborated with Outreachy mentor, following established workflows and guidelines
 
 ## 🛠️ Technical Details
 - **Testing Framework:** openQA (automated OS testing)
 - **Test Development:** Wrote test code in Perl using GNOME Text Editor
 - **Version Control:** GitLab for collaboration and code management
-- **Testing Scope:** Installation process validation for multiple Debian distributions
-- **Environment:** Continuous Integration (CI) pipelines for automated test execution
+- **Testing Scope:** Installation process validation for multiple Debian Images
 
 ## 📝 Key Learnings
 - Gained experience with **system-level automated testing** using openQA
 - Learned to write and maintain **Perl test scripts** for OS validation
 - Participated in **structured open-source QA workflows** with code reviews
-- Contributed to **CI/CD testing pipelines** for operating system validation
-- Developed understanding of **installation testing methodologies** at scale
+- Developed understanding of CI/CD testing pipelines for OS validation
