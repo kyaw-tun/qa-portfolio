@@ -45,7 +45,7 @@ API testing documentation with Postman examples and validation scripts.
 Hands-on experience developing and testing a subscription-based Android application, focusing on UI validation, API testing, and regression verification.
 
 ### [Outreachy Debian QA](projects/outreachy-debian.md)
-Contributed to automated testing of Debian OS images in an open-source environment, gaining experience with CI/CD, test automation, and collaborative QA processes.
+Contributed to automated installation testing of Debian OS using openQA, developing Perl test scripts and working within CI/CD pipelines in a collaborative open-source environment.
 
 ## 📚 Certifications
 - **ISTQB Foundation Level** (ASTQB) - Certified
