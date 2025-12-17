@@ -33,3 +33,18 @@ Login action does not trigger. User remains on login page with no error message.
 
 ## 🔧 Technical Details
 - **Browser Console Error:** 
+- **Network:** No HTTP request sent to `/api/login`
+- **User Agent:** `Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1`
+
+## 🌍 Affected Platforms
+- ✅ iPhone 12 (iOS 15, Safari 15)
+- ✅ iPhone 13 (iOS 15, Safari 15)
+- ❌ Android Chrome (Works fine)
+- ❌ Desktop Chrome (Works fine)
+
+## 💡 Suggested Fix
+Check the event handler in `login.js:45`. Likely the event object is null in Safari's touch events. Consider using `if (e) e.preventDefault()` or using passive event listeners.
+
+## 📎 Attachments
+- [login-error-safari.png] (Screenshot)
+- [console-log.txt] (Error log)
