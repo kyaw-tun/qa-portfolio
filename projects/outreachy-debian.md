@@ -4,6 +4,7 @@
 Contributed to automated testing of Debian OS images as an Outreachy intern, working within the Debian QA community.
 
 ## 🔗 Project Links
+- **My GitLab Profile:** [Gitlab Profile](https://gitlab.com/kyaw-tun) *(Shows my activity and contributions)*
 - **GitLab Repository:** [Debian QA Team](https://salsa.debian.org/qa/openqa/openqa-tests-debian/)
 - **Outreachy Program:** [Outreachy Website](https://www.outreachy.org)
 
