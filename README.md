@@ -39,6 +39,14 @@ API testing documentation with Postman examples and validation scripts.
 - ✅ **Cross-platform Testing** - Identifying environment-specific issues
 - ✅ **Technical Communication** - Clear reporting for developers and stakeholders
 
+## 🚀 Real Projects Experience
+
+### [React Native Mobile App](projects/react-native-app.md)
+Hands-on experience developing and testing a subscription-based Android application, focusing on UI validation, API testing, and regression verification.
+
+### [Outreachy Debian QA](projects/outreachy-debian.md)
+Contributed to automated testing of Debian OS images in an open-source environment, gaining experience with CI/CD, test automation, and collaborative QA processes.
+
 ## 📚 Certifications
 - **ISTQB Foundation Level** (ASTQB) - Certified
 - **Coursera** - Foundations of Software Testing
