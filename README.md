@@ -44,7 +44,7 @@ API testing documentation with Postman examples and validation scripts.
 ### [React Native Mobile App](projects/react-native-app.md)
 Hands-on experience developing and testing a subscription-based Android application, focusing on UI validation, API testing, and regression verification.
 
-### [Debian Image Testing With QA](projects/outreachy-debian.md)
+### [Debian Image Testing With OpenQA](projects/outreachy-debian.md)
 Contributed to automated installation testing of Debian OS using openQA, developing Perl test scripts and working within CI/CD pipelines in a collaborative open-source environment.
 
 ## 📚 Certifications
