@@ -1,5 +1,11 @@
 # React Native Mobile Application Project
 
+## 🔗 Platform & Profile
+- **My Expo Developer Profile:** [Expo Eas Profile](https://expo.dev/accounts/kyawkyawtun)
+- **Tools Used:** React Native, Expo EAS, Postman, Manual Testing Methodologies
+
+*Note: This was a private client project, so the codebase is not publicly available.*
+
 ## 📱 Project Overview
 Developed and tested a subscription-based Android application using React Native and Expo.
 
