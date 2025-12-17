@@ -1,7 +1,7 @@
-# Open Source QA Internship - Debian Project
+# Open Source QA Contribution - Debian Project
 
 ## 🌐 Project Overview
-Contributed to automated testing of Debian OS images as an Outreachy intern, working within the Debian QA community.
+Contributed to automated testing of Debian OS installation images **during the Outreachy contribution phase**, focusing on validating the installation process of different Debian distributions using openQA.
 
 ## 🔗 Project Links
 - **My GitLab Profile:** [Gitlab Profile](https://gitlab.com/kyaw-tun) *(Shows my activity and contributions)*
@@ -13,7 +13,7 @@ Contributed to automated testing of Debian OS images as an Outreachy intern, wor
 - Contributed to openQA test suites within a CI/CD environment
 - Authored test cases for verifying installation workflows of various Debian images
 - Participated in issue triage, test planning, and community discussions
-- Collaborated with mentors and global contributors in the Debian QA ecosystem
+- Participated in the Debian QA community, following established workflows and guidelines
 
 ## 🛠️ Technical Details
 - **Testing Framework:** openQA (automated OS testing)
