@@ -32,7 +32,7 @@ Login action does not trigger. User remains on login page with no error message.
 - **Console Error:** `TypeError: null is not an object (evaluating 'e.preventDefault')`
 
 ## 🔧 Technical Details
-- **Browser Console Error:** 
+- **Browser Console Error:** `TypeError: null is not an object (evaluating 'e.preventDefault') (anonymous function)(login.js:45)`
 - **Network:** No HTTP request sent to `/api/login`
 - **User Agent:** `Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1`
 
